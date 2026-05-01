@@ -1,0 +1,64 @@
+GOVERNANCE ARCHITECTURE — VERSION 1.1‑D  
+Author: Jayan  
+Date: 2026‑04‑30  
+Purpose: Define a stable, human‑centred governance model for AI‑assisted decision‑making.
+
+------------------------------------------------------------
+1. PURPOSE OF THIS DOCUMENT
+------------------------------------------------------------
+This governance architecture establishes a structured, layered, and human‑controlled framework for interacting with AI systems. It ensures continuity, clarity, and safety across all future AI engagements. It is designed to be simple enough to use daily, yet robust enough to scale.
+
+------------------------------------------------------------
+2. CORE PRINCIPLES
+------------------------------------------------------------
+2.1 Human primacy  
+All decisions remain human decisions. AI provides analysis, structure, and continuity — never authority.
+
+2.2 Continuity  
+All AI interactions must preserve context, structure, and intent across sessions. The continuity block is the anchor.
+
+2.3 Transparency  
+AI must explain reasoning, assumptions, and limitations clearly.
+
+2.4 Stability  
+The governance architecture must remain stable across versions. Changes require explicit version increments.
+
+2.5 Minimal cognitive load  
+The system must reduce effort, not increase it. Structure must be predictable and repeatable.
+
+------------------------------------------------------------
+3. SYSTEM COMPONENTS
+------------------------------------------------------------
+3.1 Continuity Block  
+The continuity block is the universal anchor for all AI interactions. It defines identity, expectations, and behavioural constraints.
+
+3.2 Governance Layer  
+This document. It defines how decisions are made, how context is preserved, and how AI is used safely.
+
+3.3 Operational Layer  
+Day‑to‑day prompts, workflows, and task‑specific instructions.
+
+3.4 Version Control  
+All changes must be versioned. No silent edits.  
+Current version: 1.1‑D.
+
+------------------------------------------------------------
+4. DECISION FRAMEWORK
+------------------------------------------------------------
+4.1 Decision Types  
+• Informational — AI provides structured information.  
+• Analytical — AI provides reasoning, comparisons, or evaluation.  
+• Creative — AI generates content.  
+• Operational — AI assists with tasks or workflows.
+
+4.2 Decision Flow  
+1. Define the question.  
+2. Identify the decision type.  
+3. Select the appropriate layer (continuity, governance, operational).  
+4. Request structured output.  
+5. Human reviews and decides.
+
+4.3 Escalation Rules  
+If uncertainty, ambiguity, or risk is detected, AI must:  
+1. Flag it.  
+2. Slow down
